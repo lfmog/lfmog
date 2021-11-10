@@ -1,0 +1,169 @@
+Equipo: Alunek
+videos YouTube:
+https://www.youtube.com/channel/UCOPcF5YftHQaHjuTeEYwDuw/featured
++447934926946: Telefono del profe en Escocia
+
+Agregar comentario Ctrl + K Ctrl + C
+Quitar comentario Ctrl + K Ctrl + U
+Ctrl + space bar
+
+
+https://github.com/Mision-TIC-Cilco-4/gestion-de-proyectos-front
+https://github.com/Ciclo-4-Mision-TIC-UdeA/gestion-de-proyectos-back
+
+Chat
+
+https://lms.misiontic2022udea.com/
+
+Link de grabaciones
+http://ingeniaudea.edu.co/zoom-recordings/recordings/docenciaingenia129@udea.edu.co/99312721101/2021-02-28
+grabacion_Clase lunes 8 de noviembre:
+http://ingeniaudea.edu.co/zoom-recordings/recordings/docenciaingenia129@udea.edu.co/93046093304/2021-02-28
+
+
+https://nextjs.org/docs/getting-started
+
+comando
+npx create-next-app@latest --typescript
+
+Repositorio:
+https://github.com/danyel117/gestion-de-proyectos-mintic3
+
+https://www.figma.com/
+https://balsamiq.com/
+
+git clone:
+git branch --all
+git checkout Sprint1
+git add .
+git commit -m "Se agrega presentacion de Luis F. Molina"
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Conectando el remote del profe a mi equipo
+git init
+git remote add base https://github.com/Ciclo-4-Mision-TIC-UdeA/gestion-proyectos-front.git
+descargo el proyecto del profsor a mi equipo:
+git pull base main
+
+subir el repositorio a mi repositorio en github:
+git remote add origin https://github.com/lfmog/mi-proyecto-mintic
+git push origin master
+
+para agregar un cambio del prfesor hago:
+git pull base main
+git push origin master
+
+''''''''''''''''''''''''''''''''''''''''''''
+Instalacion de Prisma
+yarn add prisma typescript ts-node @types/node D
+
+Comunicar el repositorio local con gitHub:
+git remote add origin "url"
+
+comando
+npx create-next-app@latest --typescript
+
+Repositorio:
+https://github.com/danyel117/gestion-de-proyectos-mintic3
+
+Para bajar todo lo que tengo en el Repositorio:
+git pull origin "Nombre de la rama" ejemppl"Sprint1"
+para subir todo
+git push origin "Nombre de la rama" ejemppl"Sprint1"
+
+propms = input de las funciones o de los componentes.
+
+https://tailwindcss.com/docs/guides/nextjs
+
+https://www.youtube.com/playlist?list=PLbN8v-issd2hbn2sjAiuHAtkw2bVzFM8o
+
+*No se va a utilizar Xpress, se hace por Next.js 
+
+ver la penuntima clase del ciclo pasado. Acerca Serverless
+https://www.youtube.com/playlist?list=PLbN8v-issd2hbn2sjAiuHAtkw2bVzFM8o
+
+crear cuenta en Vercel. primero tener el proyecto en GitHUb.
+
+https://next-auth.js.org/
+
+https://balsamiq.com/
+https://www.figma.com/
+
+Comunicar el repositorio local con gitHub:
+git remote add origin "url"
+
+propms = input de las funciones o de los componentes.
+
+https://tailwindcss.com/docs/guides/nextjs
+
+https://www.youtube.com/playlist?list=PLbN8v-issd2hbn2sjAiuHAtkw2bVzFM8o
+
+*No se va a utilizar Xpress, se hace por Next.js 
+
+ver la penuntima clase del ciclo pasado. Acerca Serverless
+https://www.youtube.com/playlist?list=PLbN8v-issd2hbn2sjAiuHAtkw2bVzFM8o
+
+crear cuenta en Vercel. primero tener el proyecto en GitHUb.
+
+hasta 5000 usuarios funciona bn en serverless
+
+Document
+https://nextjs.org/docs/advanced-features/custom-document
+
+Link para estudiar Hooks https://react-tutorial.app/
+
+https://reactrouter.com/docs/en/v6/getting-started/installation
+
+
+https://fontawesome.com/
+https://fontawesome.com/kits/05c19ca07b/use?welcome=yes
+luifmol19@gmail.com
+0987654321
+<script src="https://kit.fontawesome.com/05c19ca07b.js" crossorigin="anonymous"></script>
+
+https://creately.com/
+modelo UML: https://app.creately.com/diagram/9M5BwnPd5rf/
+https://www.npmjs.com/package/mongoose
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
+usuario Mongo: admin
+Clave : adminProyectos
+
+https://github.com/Ciclo-4-Mision-TIC-UdeA/gestion-de-proyectos-back
+
+Link de conexion:
+mongodb+srv://admin:<password>@gestionproyectosmisiont.vobsf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------
+
+Next Js
+SuperBase
+https://supabase.io/
+
+Prisma
+https://www.prisma.io/docs/concepts/components/prisma-schema/relations
+
+NextJS
+https://nextjs.org/docs/basic-features/data-fetching
+GitHub Next JS:
+https://github.com/danyel117/gestion-de-proyectos-mintic
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''
+yarn add prisma typescript ts-node @types/node D
+
+
